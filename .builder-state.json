@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T01:57:44.876340+00:00",
+  "slug": "your-home-flow",
+  "type": "shop",
+  "package": "yourshopmarket.household.yourhomeflow",
+  "prefix": "IMVXB",
+  "app_name": "Your Home Flow",
+  "task_gid": "1216517731439873",
+  "task_name": "GB Gmail2 C340",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1211782465256228/task/1216517731439873",
+  "domain": "https://yourshop.today",
+  "company": "YOUR SHOP MARKET LTD",
+  "repo_url": "https://github.com/ArtCode379/your-home-flow",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
