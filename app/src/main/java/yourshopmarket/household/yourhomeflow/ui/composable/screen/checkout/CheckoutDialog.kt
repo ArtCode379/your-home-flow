@@ -15,6 +15,7 @@ import yourshopmarket.household.yourhomeflow.R
 
 @Composable
 fun CheckoutDialog(
+    orderNumber: String,
     onConfirm: () -> Unit,
 ) {
     AlertDialog(
@@ -34,7 +35,7 @@ fun CheckoutDialog(
         text = {
             Column(modifier = Modifier.fillMaxWidth()) {
                 Text(
-                    text = stringResource(id = R.string.imvxb_checkout_success_message),
+                    text = "Reservation #$orderNumber is confirmed. Your order is waiting in store and will be held for 24 hours.",
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurface
                 )
@@ -49,6 +50,7 @@ fun CheckoutDialog(
 fun CheckoutDialogPreview() {
     MaterialTheme {
         CheckoutDialog(
+            orderNumber = "YHF12345",
             onConfirm = {}
         )
     }

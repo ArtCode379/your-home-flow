@@ -5,7 +5,7 @@
     <string name="imvxb_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="imvxb_top_bar_home_title">Home/App Title</string>
+    <string name="imvxb_top_bar_home_title">Your Home Flow</string>
     <string name="imvxb_top_bar_cart_title">Cart</string>
     <string name="imvxb_top_bar_checkout_title">Checkout</string>
     <string name="imvxb_top_bar_orders_title">Orders</string>
@@ -19,12 +19,12 @@
     <string name="imvxb_bottom_bar_nav_item_settings_title">Settings</string>
 
     <!-- onboarding screen -->
-    <string name="imvxb_page_1_title">Strategic Planning</string>
-    <string name="imvxb_page_2_title">Operational Excellence</string>
-    <string name="imvxb_page_3_title">Change Management</string>
-    <string name="imvxb_page_1_description">Comprehensive strategic analysis and planning that aligns your business objectives with market opportunities and organizational capabilities.</string>
-    <string name="imvxb_page_2_description">Process optimization and operational improvement strategies that enhance efficiency, reduce costs, and drive sustainable performance.</string>
-    <string name="imvxb_page_3_description">Expert guidance through organizational transformation</string>
+    <string name="imvxb_page_1_title">Thoughtful finds</string>
+    <string name="imvxb_page_2_title">Easy to explore</string>
+    <string name="imvxb_page_3_title">Reserve and collect</string>
+    <string name="imvxb_page_1_description">Useful, beautiful pieces for every part of your home.</string>
+    <string name="imvxb_page_2_description">Browse homeware, kitchen, textiles, stationery, and accessories.</string>
+    <string name="imvxb_page_3_description">Reserve your basket and collect it in store within 24 hours.</string>
     <string name="imvxb_next_button_title">Next</string>
     <string name="imvxb_start_button_title">Start</string>
     <string name="imvxb_skip_button_title">Skip</string>
@@ -64,9 +64,15 @@
     <string name="imvxb_settings_screen_company_label">Company</string>
     <string name="imvxb_settings_screen_version_label">Version</string>
     <string name="imvxb_settings_screen_customer_support_label">Customer Support</string>
-    <string name="imvxb_company_name">Company Name</string>
-    <string name="imvxb_app_version">1.0.0</string>
-    <string name="imvxb_customer_support_link">https://website.org/</string>
+    <string name="imvxb_company_name">YOUR SHOP MARKET LTD</string>
+    <string name="imvxb_app_version">1.0</string>
+    <string name="imvxb_customer_support_link">https://yourshop.today</string>
+
+    <string name="imvxb_category_home">Home</string>
+    <string name="imvxb_category_kitchen">Kitchen</string>
+    <string name="imvxb_category_textiles">Textiles</string>
+    <string name="imvxb_category_stationery">Stationery</string>
+    <string name="imvxb_category_accessories">Accessories</string>
 
     <!-- clear cart dialog -->
     <string name="imvxb_clear_cart_dialog_title">Clear cart?</string>
